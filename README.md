@@ -3,7 +3,7 @@
 Official Privacy Policy page for the Chrome extension **Coursera Skip Video & Reading** (Item ID: `jjbgneddmjkolgmpamecbhfgjgdiajlf`).
 
 ## Live Website
-👉 **https://tuankiet18-dev.github.io/coursera-skip-privacy/**
+👉 **https://tuankiet18.github.io/coursera-skip-privacy/**
 
 ## Overview
 This extension is an independent productivity tool designed to help students manage course pacing.
@@ -14,4 +14,4 @@ This extension is an independent productivity tool designed to help students man
 ## Contact
 For inquiries or support regarding privacy practices, please contact:
 - Email: kietboy8@gmail.com
-- Issues: https://github.com/tuankiet18-dev/coursera-skip-privacy/issues
+- Issues: https://github.com/tuankiet18/coursera-skip-privacy/issues
